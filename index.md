@@ -1,4 +1,26 @@
-## Welcome to GitHub Pages
+
+
+<img src="/imag.jpg" height="170px" alt="图片说明" style="float:left" align="left">[Minghui Wu(吴铭晖)](https://wuminghui123.github.io/)
+
+[Beijing Institute of Technology](https://www.bit.edu.cn/)
+
+
+
+Email: 1461610587@qq.com
+
+ [[Github](https://github.com/wuminghui123)] [[微信](/imag2.jpg)]
+
+
+
+
+
+
+
+
+
+
+
+## Welcome to GitHub Pages xxy
 
 You can use the [editor on GitHub](https://github.com/wuminghui123/wuminghui123.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
